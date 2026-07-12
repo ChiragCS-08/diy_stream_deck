@@ -1,0 +1,28 @@
+Drill report for PID.kicad_pcb
+Created on 2026-07-11T20:56:01
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'PID-PTH-drl.gbr' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (23 holes))
+    T2  0.400mm  0.0157"  (16 holes))
+    T3  0.600mm  0.0236"  (4 holes)  (with 4 slots)
+    T4  1.600mm  0.0630"  (36 holes))
+    T5  3.000mm  0.1181"  (4 holes))
+
+    Total plated holes count 83
+
+
+Drill file 'PID-NPTH-drl.gbr' contains
+    unplated through holes:
+    =============================================================
+    T1  3.500mm  0.1378"  (6 holes))
+    T2  5.100mm  0.2008"  (12 holes))
+
+    Total unplated holes count 18
