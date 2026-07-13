@@ -9,3 +9,11 @@ fp-lib-table-bak
 .DS_Store
 Thumbs.db
 __pycache__/
+
+.history/
+*.bak
+*-backups/
+_autosave-*
+*.lck
+fp-info-cache
+*.kicad_prl
