@@ -9,3 +9,5 @@ Dynamic per-key OLED labeling via I²C multiplexing
 USB HID macro execution — no proprietary software required
 Python-based automated test suite for hardware validation
 Fully open-source hardware + firmware, built for hackability and extension
+=======
+# diy_stream_deck
