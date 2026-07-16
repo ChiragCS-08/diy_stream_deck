@@ -89,7 +89,6 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -412,15 +411,15 @@
 			(uuid "ed4e0190-5818-4a72-bddd-b52bb52cfddd")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_LCD_E3_SAxxxx_SocketPins.step"
+		(model "D:/PCB Project/PID/NKKSWITCHES_IS15EBFP4RGB/IS15EBFP4RGB.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -19 4 6)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -709,15 +708,15 @@
 			(uuid "5662b957-8da9-46b1-a796-c42398ed28b5")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_LCD_E3_SAxxxx_SocketPins.step"
+		(model "D:/PCB Project/PID/NKKSWITCHES_IS15EBFP4RGB/IS15EBFP4RGB.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -19 4 4.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -3273,15 +3272,15 @@
 			(uuid "19dbb17e-f5da-4976-8d50-29c22ed7681e")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/c_s_c/Downloads/NKKSWITCHES_IS15ESBFP4RGB.zip"
+		(model "D:/PCB Project/PID/NKKSWITCHES_IS15EBFP4RGB/IS15EBFP4RGB.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -19 5 5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -3854,15 +3853,15 @@
 			(uuid "3269bc8f-cf85-4d58-ace3-b2493e0dd6ba")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_LCD_E3_SAxxxx_SocketPins.step"
+		(model "D:/PCB Project/PID/NKKSWITCHES_IS15EBFP4RGB/IS15EBFP4RGB.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -18.5 4.5 5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -4151,15 +4150,15 @@
 			(uuid "5bae9284-17f0-4274-aa29-6b4f03050087")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_LCD_E3_SAxxxx_SocketPins.step"
+		(model "D:/PCB Project/PID/NKKSWITCHES_IS15EBFP4RGB/IS15EBFP4RGB.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -19 4.5 5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -5768,15 +5767,15 @@
 			(uuid "47433579-e2b7-47f7-b4f7-ba9b57119da8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_LCD_E3_SAxxxx_SocketPins.step"
+		(model "D:/PCB Project/PID/NKKSWITCHES_IS15EBFP4RGB/IS15EBFP4RGB.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -19 4.5 5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
